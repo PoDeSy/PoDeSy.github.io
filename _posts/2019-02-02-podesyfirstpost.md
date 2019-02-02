@@ -6,7 +6,7 @@ categories: PoDeSy
 tags: PoDeSyBlog
 ---
 
-![trireme](https://user-images.githubusercontent.com/2381610/52167960-72a94c80-26d8-11e9-943f-db6fdaa0190a.png)
+![trireme](https://user-images.githubusercontent.com/2381610/52167960-72a94c80-26d8-11e9-943f-db6fdaa0190a.png){: .image-left }
 
 
 ## POcket DEsign SYstem Applied to Tabletop Games 
