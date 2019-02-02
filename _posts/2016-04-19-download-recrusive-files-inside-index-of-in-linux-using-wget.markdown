@@ -2,7 +2,7 @@
 layout: post
 title:  "Download recrusive files inside index-of in Linux using wget"
 date:   2016-04-19 19:39:02 +0700
-categories: [bash]
+categories: tacos
 ---
 ```
 $ wget -r --no-parent --reject "index.html*" http://125.160.17.22/dokumen/IGN/Panduan_OpenOffice.org_2.0/
@@ -36,4 +36,3 @@ If you insert a -l 0 you´ll download the whole internet, because wget will foll
 
 * [http://stackoverflow.com/a/19695143/3445802](http://stackoverflow.com/a/19695143/3445802)
 * [http://stackoverflow.com/a/273776/3445802](http://stackoverflow.com/a/273776/3445802)
-

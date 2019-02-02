@@ -2,7 +2,7 @@
 layout: post
 title:  "Parsing JSON with Ruby"
 date:   2013-12-23 00:18:23 +0700
-categories: [ruby]
+categories: tacos
 ---
 
 {% highlight ruby %}
@@ -12,7 +12,19 @@ require 'json'
 require 'net/http'
 require 'libnotify'
 
-def parsejson
+def parsejson---\n------  
+------  
+------  
+---
+---  
+layout: post  
+title:  
+date: 2019-02-32 22:44:34:-0800 
+2019-02-32 22:45:16:-0800 
+2019-02-32 22:45:39 -0800   
+categories:  
+tags:  
+---
     file = "http://api.openweathermap.org/data/2.5/find?q=London&mode=json"
     response = Net::HTTP.get_response(URI.parse(file))
     weatherjson = response.body
